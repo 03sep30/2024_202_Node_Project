@@ -228,7 +228,7 @@ GameObject:
   - component: {fileID: 134484825}
   - component: {fileID: 134484827}
   m_Layer: 5
-  m_Name: InputField (UserName)
+  m_Name: UserName InputField
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1044,7 +1044,7 @@ GameObject:
   - component: {fileID: 720290018}
   - component: {fileID: 720290020}
   m_Layer: 5
-  m_Name: GetData
+  m_Name: GetData Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1508,7 +1508,7 @@ GameObject:
   - component: {fileID: 1439323301}
   - component: {fileID: 1439323303}
   m_Layer: 5
-  m_Name: InputField (Password)
+  m_Name: Password InputField
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
