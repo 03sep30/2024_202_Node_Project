@@ -5,9 +5,9 @@ using UnityEngine.Networking;
 using System.Text;
 using Newtonsoft.Json;          //JSON ���̺귯�� �߰�
 using System;
-using UnityEngine.Rendering;
-using UnityEditor.Compilation;
-using Unity.VisualScripting;       //Action<> ����� ���� ���ӽ����̽� �߰�
+//using UnityEngine.Rendering;
+//using UnityEditor.Compilation;
+//using Unity.VisualScripting;       //Action<> ����� ���� ���ӽ����̽� �߰�
 
 public class GameAPI : MonoBehaviour
 {
